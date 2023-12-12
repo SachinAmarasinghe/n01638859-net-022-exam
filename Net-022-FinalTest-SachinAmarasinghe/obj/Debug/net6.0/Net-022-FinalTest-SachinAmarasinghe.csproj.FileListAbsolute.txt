@@ -1,0 +1,15 @@
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\bin\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.exe
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\bin\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.deps.json
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\bin\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.runtimeconfig.json
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\bin\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.dll
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\bin\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.pdb
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.csproj.AssemblyReference.cache
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.AssemblyInfoInputs.cache
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.AssemblyInfo.cs
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.dll
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\refint\Net-022-FinalTest-SachinAmarasinghe.dll
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.pdb
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\Net-022-FinalTest-SachinAmarasinghe.genruntimeconfig.cache
+C:\Users\Sachin Amarasinghe\Documents\Humber\Exam-net-022\Net-022-FinalTest-SachinAmarasinghe\obj\Debug\net6.0\ref\Net-022-FinalTest-SachinAmarasinghe.dll
